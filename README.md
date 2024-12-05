@@ -95,9 +95,3 @@ Contributions are welcome! Fork the repository, create a branch, and submit a pu
 
 ## 📜 License
 This project is licensed under the MIT License.
-
----
-
-## 📧 Contact
-- For inquiries, reach out at: nimsha.riveen@gmail.com  
-- Visit the project on GitHub: [Stock Management System Repository](https://github.com/your-username/stock-management-system)
