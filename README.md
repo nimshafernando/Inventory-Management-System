@@ -1,9 +1,9 @@
 
-# Stock Management System 📦
+# Inventory Management System 📦
 
 **A Robust Solution for Inventory and Transaction Tracking**  
 
-This Stock Management System is a desktop application built using **C#** and **Object-Oriented Programming (OOP)** principles, ensuring modularity, maintainability, and scalability. The system features a seamless integration with a **MySQL database**, managed through **PHPMyAdmin**, to track and log all transactions comprehensively.
+This Inventory Management System is a desktop application built using **C#** and **Object-Oriented Programming (OOP)** principles, ensuring modularity, maintainability, and scalability. The system features a seamless integration with a **MySQL database**, managed through **PHPMyAdmin**, to track and log all transactions comprehensively.
 
 ---
 
