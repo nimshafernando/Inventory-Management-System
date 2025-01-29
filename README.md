@@ -3,7 +3,7 @@
 
 **A Robust Solution for Inventory and Transaction Tracking**  
 
-This Inventory Management System is a desktop application built using **C#** and **Object-Oriented Programming (OOP)** principles, ensuring modularity, maintainability, and scalability. The system features a seamless integration with a **MySQL database**, managed through **PHPMyAdmin**, to track and log all transactions comprehensively.
+This Inventory Management System is a desktop application built using **C#** and **Object-Oriented Programming (OOP)** principles, ensuring modularity, maintainability, and scalability. The system is managed through **PHPMyAdmin**, to track and log all transactions comprehensively.
 
 ---
 
@@ -33,7 +33,7 @@ This Inventory Management System is a desktop application built using **C#** and
 ## 🛠️ Technologies Used
 - **Frontend**: Built with **C#** Windows Forms for an intuitive and user-friendly interface.
 - **Backend**: Implemented with OOP concepts for modularity and efficiency.
-- **Database**: MySQL database, managed via **PHPMyAdmin** for reliability and ease of use.
+- **Database**: **PHPMyAdmin** for reliability and ease of use.
 
 ---
 
